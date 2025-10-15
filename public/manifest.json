@@ -1,0 +1,14 @@
+{
+  "name": "Voyage AI - AI-Powered Travel Planner",
+  "short_name": "Voyage AI",
+  "description": "Revolutionary AI-powered travel planning platform. Plan smarter, travel further.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDFCF7",
+  "theme_color": "#9CAF88",
+  "orientation": "portrait-primary",
+  "icons": [],
+  "categories": ["travel", "lifestyle", "productivity"],
+  "lang": "en",
+  "dir": "ltr"
+}
